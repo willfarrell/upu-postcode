@@ -1,0 +1,9 @@
+{
+    "formats": [
+        "SIQQ 1ZZ"
+    ],
+    "pattern": "^SIQQ 1ZZ$",
+    "masks": [
+        ["S","I","Q","Q"," ","1","Z","Z"]
+    ]
+}

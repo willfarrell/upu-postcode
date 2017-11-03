@@ -1,0 +1,21 @@
+{
+  "name": "upu-postcode",
+  "version": "17.11.0",
+  "engines": {
+    "node": ">8.8",
+    "npm": ">5.5"
+  },
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "npm run build:deref && npm run build:jsonschema && npm run build:masks",
+    "build:deref": "node bin/deref.js",
+    "build:jsonschema": "node bin/jsonschema.js",
+    "build:masks": "node bin/masks.js",
+    "lint": "",
+    "test": ""
+  },
+  "devDependencies": {
+    "json-schema-ref-parser": "^4.0.3",
+    "lodash": "^4.17.4"
+  }
+}

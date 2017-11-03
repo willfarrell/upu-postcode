@@ -1,0 +1,7 @@
+{
+    "formats": [
+        "PCRN 1ZZ"
+    ],
+    "pattern": "^PCRN 1ZZ$",
+    "masks":[["P","C","R","N"," ","1","Z","Z"]]
+}

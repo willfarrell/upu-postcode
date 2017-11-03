@@ -1,0 +1,9 @@
+{
+    "formats": [
+        "TKCA 1ZZ"
+    ],
+    "pattern": "^TKCA 1ZZ$",
+    "masks": [
+        ["T","K","C","A"," ","1","Z","Z"]
+    ]
+}

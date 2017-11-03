@@ -1,0 +1,7 @@
+{
+    "formats": [
+        "FIQQ 1ZZ"
+    ],
+    "pattern": "^FIQQ 1ZZ$",
+    "masks":[["F","I","Q","Q"," ","1","Z","Z"]]
+}

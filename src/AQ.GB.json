@@ -1,0 +1,9 @@
+{
+    "formats": [
+        "BIQQ 1ZZ"
+    ],
+    "pattern": "^BIQQ 1ZZ$",
+    "masks":[
+        ["B","I","Q","Q"," ","1","Z","Z"]
+    ]
+}

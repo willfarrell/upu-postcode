@@ -1,0 +1,9 @@
+{
+    "formats": [
+        "@#@ #@#"
+    ],
+    "pattern": "^[ABCEGHJKLMNPRSTVWXYZ][0-9][ABCEGHJKLMNPRSTVWXYZ] [0-9][ABCEGHJKLMNPRSTVWXYZ][0-9]$",
+    "masks":[
+        ["[ABCEGHJKLMNPRSTVWXYZ]","[0-9]","[ABCEGHJKLMNPRSTVWXYZ]"," ","[0-9]","[ABCEGHJKLMNPRSTVWXYZ]","[0-9]"]
+    ]
+}

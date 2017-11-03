@@ -1,0 +1,770 @@
+{
+    "AF": {
+        "$ref":"AF.json"
+    },
+    "AX": {
+        "parent":"FI",
+        "$ref": "AX.json"
+    },
+    "AL": {
+        "$ref": "4digits.json"
+    },
+    "DZ": {
+        "$ref": "5digits.json"
+    },
+    "AS": {
+        "parent": "US",
+        "$ref":"AS.US.json"
+    },
+    "AD": {
+        "$ref":"AD.json"
+    },
+    "AO": {
+        "$ref": "none.json"
+    },
+    "AI": {
+        "$ref":"AI.json"
+    },
+    "AG": {
+        "$ref": "none.json"
+    },
+    "AR": {
+        "$ref":"AR.json"
+    },
+    "AM": {
+        "$ref": "4digits.json"
+    },
+    "AW": {
+        "$ref": "none.json"
+    },
+    "AU": {
+        "$ref": "4digits.json"
+    },
+    "AT": {
+        "$ref": "4digits.json"
+    },
+    "AZ": {
+        "$ref":"AZ.json"
+    },
+    "BS": {
+        "$ref": "none.json"
+    },
+    "BH": {
+        "$ref":"BH.json"
+    },
+    "BD": {
+        "$ref": "4digits.json"
+    },
+    "BB": {
+        "$ref":"BB.json"
+    },
+    "BY": {
+        "$ref": "6digits.json"
+    },
+    "BE": {
+        "$ref": "4digits.json"
+    },
+    "BZ": {
+        "$ref": "none.json"
+    },
+    "BJ": {
+        "$ref": "none.json"
+    },
+    "BM": {
+        "$ref":"BM.json"
+    },
+    "BT": {
+        "$ref": "5digits.json"
+    },
+    "BO": {
+        "$ref": "none.json"
+    },
+    "BQ": {
+        "$ref": "none.json"
+    },
+    "BA": {
+        "$ref": "5digits.json"
+    },
+    "BW": {
+        "$ref": "none.json"
+    },
+    "BR": {
+        "$ref":"BR.json"
+    },
+    "AQ": {
+        "parent":"GB",
+        "$ref":"AQ.GB.json"
+    },
+    "IO": {
+        "parent":"GB",
+        "$ref":"IO.GB.json"
+    },
+    "VG": {
+        "$ref":"VG.json"
+    },
+    "BN": {
+        "$ref":"BN.json"
+    },
+    "BG": {
+        "$ref": "4digits.json"
+    },
+    "BF": {
+        "$ref": "none.json"
+    },
+    "BI": {
+        "$ref": "none.json"
+    },
+    "KH": {
+        "$ref": "5digits.json"
+    },
+    "CM": {
+        "$ref": "none.json"
+    },
+    "CA": {
+        "$ref":"CA.json"
+    },
+    "CV": {
+        "$ref": "4digits.json"
+    },
+    "KY": {
+        "$ref":"KY.json"
+    },
+    "CF": {
+        "$ref": "none.json"
+    },
+    "TD": {
+        "$ref": "none.json"
+    },
+    "CL": {
+        "$ref":"CL.json"
+    },
+    "CX": {
+        "$ref": "4digits.json"
+    },
+    "CC": {
+        "$ref": "4digits.json"
+    },
+    "CO": {
+        "$ref":"CO.json"
+    },
+    "KM": {
+        "$ref": "none.json"
+    },
+    "CG": {
+        "$ref": "none.json"
+    },
+    "CD": {
+        "$ref": "none.json"
+    },
+    "CK": {
+        "$ref": "none.json"
+    },
+    "CR": {
+        "$ref":"CR.json"
+    },
+    "CI": {
+        "$ref": "none.json"
+    },
+    "HR": {
+        "$ref": "5digits.json"
+    },
+    "CU": {
+        "$ref":"CU.json"
+    },
+    "CW": {
+        "$ref": "none.json"
+    },
+    "CY": {
+        "$ref": "4digits.json"
+    },
+    "CZ": {
+        "$ref":"CZ.json"
+    },
+    "DK": {
+        "$ref":"DK.json"
+    },
+    "DJ": {
+        "$ref": "none.json"
+    },
+    "DM": {
+        "$ref": "none.json"
+    },
+    "DO": {
+        "$ref": "5digits.json"
+    },
+    "TL": {
+        "$ref": "none.json"
+    },
+    "EC": {
+        "$ref": "6digits.json"
+    },
+    "SV": {
+        "$ref": "4digits.json"
+    },
+    "EG": {
+        "$ref": "5digits.json"
+    },
+    "GQ": {
+        "$ref": "none.json"
+    },
+    "ER": {
+        "$ref": "none.json"
+    },
+    "EE": {
+        "$ref": "5digits.json"
+    },
+    "ET": {
+        "$ref": "4digits.json"
+    },
+    "FK": {
+        "$ref":"FK.json"
+    },
+    "FO": {
+        "$ref": "3digits.json"
+    },
+    "FJ": {
+        "$ref": "none.json"
+    },
+    "FI": {
+        "$ref":"5digits.json"
+    },
+    "FR": {
+        "$ref": "5digits.json"
+    },
+    "GF": {
+        "parent":"FR",
+        "$ref": "GF.FR.json"
+    },
+    "PF": {
+        "parent":"FR",
+        "$ref": "PF.FR.json"
+    },
+    "TF": {
+        "parent":"FR",
+        "$ref": "none.json"
+    },
+    "GA": {
+        "$ref": "none.json"
+    },
+    "GM": {
+        "$ref": "none.json"
+    },
+    "GE": {
+        "$ref": "4digits.json"
+    },
+    "DE": {
+        "$ref": "5digits.json"
+    },
+    "GH": {
+        "$ref": "none.json"
+    },
+    "GI": {
+        "$ref": "GI.json"
+    },
+    "GR": {
+        "$ref": "GR.json"
+    },
+    "GL": {
+        "$ref": "4digits.json"
+    },
+    "GD": {
+        "$ref": "none.json"
+    },
+    "GP": {
+        "parent":"FR",
+        "$ref": "GP.FR.json"
+    },
+    "GU": {
+        "parent":"US",
+        "$ref": "GU.US.json"
+    },
+    "GT": {
+        "$ref": "5digits.json"
+    },
+    "GG": {
+        "$ref": "GG.json"
+    },
+    "GN": {
+        "$ref": "3digits.json"
+    },
+    "GW": {
+        "$ref": "4digits.json"
+    },
+    "GY": {
+        "$ref": "none.json"
+    },
+    "HM": {
+        "$ref": "4digits.json"
+    },
+    "HN": {
+        "$ref": "HN.json"
+    },
+    "HK": {
+        "$ref": "HK.json"
+    },
+    "HU": {
+        "$ref": "4digits.json"
+    },
+    "IS": {
+        "$ref": "3digits.json"
+    },
+    "IN": {
+        "$ref": "IN.json"
+    },
+    "ID": {
+        "$ref": "5digits.json"
+    },
+    "IR": {
+        "$ref": "10digits.json"
+    },
+    "IQ": {
+        "$ref": "5digits.json"
+    },
+    "IE": {
+        "$ref": "IE.json"
+    },
+    "IM": {
+        "$ref": "IM.json"
+    },
+    "IL": {
+        "$ref": "7digits.json"
+    },
+    "IT": {
+        "$ref": "5digits.json"
+    },
+    "JM": {
+        "$ref": "2digits.json"
+    },
+    "JP": {
+        "$ref": "JP.json"
+    },
+    "JE": {
+        "$ref": "JE.json"
+    },
+    "JO": {
+        "$ref": "5digits.json"
+    },
+    "KZ": {
+        "$ref": "6digits.json"
+    },
+    "KE": {
+        "$ref": "5digits.json"
+    },
+    "KI": {
+        "$ref": "none.json"
+    },
+    "KP": {
+        "$ref": "none.json"
+    },
+    "KR": {
+        "$ref": "5digits.json"
+    },
+    "XK": {
+        "$ref": "5digits.json"
+    },
+    "KW": {
+        "$ref": "5digits.json"
+    },
+    "KG": {
+        "$ref": "6digits.json"
+    },
+    "LA": {
+        "$ref": "5digits.json"
+    },
+    "LV": {
+        "$ref": "LV.json"
+    },
+    "LB": {
+        "formats": [
+            "#### ####"
+        ],
+        "pattern": "^[0-9]{4} [0-9]{4}$",
+        "masks": [
+            [
+                "/[0-9]/",
+                "/[0-9]/",
+                "/[0-9]/",
+                "/[0-9]/",
+                " ",
+                "/[0-9]/",
+                "/[0-9]/",
+                "/[0-9]/",
+                "/[0-9]/"
+            ]
+        ]
+    },
+    "LS": {
+        "$ref": "3digits.json"
+    },
+    "LR": {
+        "$ref": "4digits.json"
+    },
+    "LY": {
+        "$ref": "none.json"
+    },
+    "LI": {
+        "parent":"CH",
+        "$ref": "LI.CH.json"
+    },
+    "LT": {
+        "$ref": "LT.json"
+    },
+    "LU": {
+        "$ref": "4digits.json"
+    },
+    "MO": {
+        "$ref": "none.json"
+    },
+    "MK": {
+        "$ref": "4digits.json"
+    },
+    "MG": {
+        "$ref": "3digits.json"
+    },
+    "MW": {
+        "$ref": "none.json"
+    },
+    "MY": {
+        "$ref": "5digits.json"
+    },
+    "MV": {
+        "$ref": "5digits.json"
+    },
+    "MT": {
+        "$ref": "MT.json"
+    },
+    "MH": {
+        "parent": "US",
+        "$ref": "MM.US.json"
+    },
+    "MR": {
+        "$ref": "none.json"
+    },
+    "MU": {
+        "$ref": "5digits.json"
+    },
+    "MQ": {
+        "parent": "FR",
+        "$ref": "MQ.FR.json"
+    },
+    "YT": {
+        "parent": "FR",
+        "$ref": "YT.FR.json"
+    },
+    "MX": {
+        "$ref": "5digits.json"
+    },
+    "FM": {
+        "parent": "US",
+        "$ref": "FM.US.json"
+    },
+    "MD": {
+        "$ref": "MD.json"
+    },
+    "MC": {
+        "parent": "FR",
+        "$ref": "MC.FR.json"
+    },
+    "MN": {
+        "$ref": "6digits.json"
+    },
+    "ME": {
+        "$ref": "5digits.json"
+    },
+    "MS": {
+        "$ref": "MS.json"
+    },
+    "MA": {
+        "$ref": "5digits.json"
+    },
+    "MZ": {
+        "$ref": "4digits.json"
+    },
+    "MM": {
+        "$ref": "5digits.json"
+    },
+    "NA": {
+        "$ref": "none.json"
+    },
+    "NR": {
+        "$ref": "none.json"
+    },
+    "NP": {
+        "$ref": "5digits.json"
+    },
+    "NL": {
+        "$ref": "NL.json"
+    },
+    "NC": {
+        "parent": "FR",
+        "$ref": "NC.FR.json"
+    },
+    "NZ": {
+        "$ref": "4digits.json"
+    },
+    "NI": {
+        "$ref": "5digits.json"
+    },
+    "NE": {
+        "$ref": "4digits.json"
+    },
+    "NG": {
+        "$ref": "6digits.json"
+    },
+    "NU": {
+        "$ref": "none.json"
+    },
+    "NF": {
+        "parent": "AU",
+        "$ref": "4digits.json"
+    },
+    "MP": {
+        "parent": "US",
+        "$ref": "MP.US.json"
+    },
+    "NO": {
+        "$ref": "4digits.json"
+    },
+    "OM": {
+        "poBoxOnly": true,
+        "$ref": "3digits.json"
+    },
+    "PK": {
+        "$ref": "5digits.json"
+    },
+    "PS": {
+        "$ref": "3digits.json"
+    },
+    "PA": {
+        "$ref": "4digits.json"
+    },
+    "PG": {
+        "$ref": "3digits.json"
+    },
+    "PY": {
+        "$ref": "4digits.json"
+    },
+    "PE": {
+        "$ref": "PE.json"
+    },
+    "PH": {
+        "$ref": "4digits.json"
+    },
+    "PN": {
+        "parent": "GB",
+        "$ref": "PN.GB.json"
+    },
+    "PL": {
+        "$ref": "PL.json"
+    },
+    "PT": {
+        "$ref": "PT.json"
+    },
+    "PR": {
+        "$ref": "PR.US.json"
+    },
+    "QA": {
+        "$ref": "none.json"
+    },
+    "RE": {
+        "parent": "FR",
+        "$ref": "RE.FR.json"
+    },
+    "RO": {
+        "$ref": "6digits.json"
+    },
+    "RW": {
+        "$ref": "none.json"
+    },
+    "RU": {
+        "$ref": "6digits.json"
+    },
+    "BL": {
+        "parent": "FR",
+        "$ref": "BL.FR.json"
+    },
+    "SH": {
+        "parent": "GB",
+        "$ref": "SH.GB.json"
+    },
+    "KN": {
+        "$ref": "none.json"
+    },
+    "LC": {
+        "$ref": "LC.json"
+    },
+    "MF": {
+        "parent": "FR",
+        "$ref": "MF.FR.json"
+    },
+    "PM": {
+        "parent": "FR",
+        "$ref": "PM.FR.json"
+    },
+    "VC": {
+        "$ref": "VC.json"
+    },
+    "SM": {
+        "$ref": "SM.json"
+    },
+    "ST": {
+        "$ref": "none.json"
+    },
+    "SA": {
+        "$ref": "SA.json"
+    },
+    "SN": {
+        "$ref": "5digits.json"
+    },
+    "RS": {
+        "$ref": "5digits.json"
+    },
+    "SC": {
+        "$ref": "none.json"
+    },
+    "SL": {
+        "$ref": "none.json"
+    },
+    "SX": {
+        "$ref": "none.json"
+    },
+    "SG": {
+        "$ref": "6digits.json"
+    },
+    "SK": {
+        "$ref": "SK.json"
+    },
+    "SI": {
+        "$ref": "SI.json"
+    },
+    "SB": {
+        "$ref": "none.json"
+    },
+    "SO": {
+        "$ref": "SO.json"
+    },
+    "ZA": {
+        "$ref": "4digits.json"
+    },
+    "GS": {
+        "$ref": "GS.json"
+    },
+    "ES": {
+        "$ref": "ES.json"
+    },
+    "LK": {
+        "$ref": "5digits.json"
+    },
+    "SD": {
+        "$ref": "5digits.json"
+    },
+    "SR": {
+        "$ref": "none.json"
+    },
+    "SZ": {
+        "$ref": "SZ.json"
+    },
+    "SE": {
+        "$ref": "SE.json"
+    },
+    "CH": {
+        "$ref": "4digits.json"
+    },
+    "SJ": {
+        "parent": "NO",
+        "$ref": "5digits.json"
+    },
+    "SY": {
+        "$ref": "none.json"
+    },
+    "TW": {
+        "$ref": "TW.json"
+    },
+    "TJ": {
+        "$ref": "6digits.json"
+    },
+    "TZ": {
+        "$ref": "5digits.json"
+    },
+    "TH": {
+        "$ref": "5digits.json"
+    },
+    "TG": {
+        "$ref": "none.json"
+    },
+    "TK": {
+        "$ref": "none.json"
+    },
+    "TO": {
+        "$ref": "none.json"
+    },
+    "TT": {
+        "$ref": "6digits.json"
+    },
+    "TN": {
+        "$ref": "4digits.json"
+    },
+    "TR": {
+        "$ref": "5digits.json"
+    },
+    "TM": {
+        "$ref": "6digits.json"
+    },
+    "TC": {
+        "$ref": "TC.json"
+    },
+    "TV": {
+        "$ref": "none.json"
+    },
+    "UG": {
+        "$ref": "none.json"
+    },
+    "UA": {
+        "$ref": "5digits.json"
+    },
+    "AE": {
+        "$ref": "none.json"
+    },
+    "GB": {
+        "$ref": "GB.json"
+    },
+    "US": {
+        "$ref": "US.json"
+    },
+    "UY": {
+        "$ref": "5digits.json"
+    },
+    "VI": {
+        "parent": "US",
+        "$ref": "VI.US.json"
+    },
+    "UZ": {
+        "$ref": "6digits.json"
+    },
+    "VU": {
+        "$ref": "none.json"
+    },
+    "VA": {
+        "parent": "IT",
+        "$ref": "VA.json"
+    },
+    "VE": {
+        "$ref": "VE.json"
+    },
+    "VN": {
+        "$ref": "6digits.json"
+    },
+    "WF": {
+        "parent": "FR",
+        "$ref": "WF.FR.json"
+    },
+    "YE": {
+        "$ref": "none.json"
+    },
+    "ZM": {
+        "$ref": "5digits.json"
+    },
+    "ZW": {
+        "$ref": "none.json"
+    }
+}
