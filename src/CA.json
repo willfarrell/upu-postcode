@@ -2,8 +2,8 @@
     "formats": [
         "@#@ #@#"
     ],
-    "pattern": "^[ABCEGHJKLMNPRSTVWXYZ][0-9][ABCEGHJKLMNPRSTVWXYZ] [0-9][ABCEGHJKLMNPRSTVWXYZ][0-9]$",
+    "pattern": "^[A-CEGHJ-NPR-TV-Z][0-9][A-CEGHJ-NPR-TV-Z] [0-9][A-CEGHJ-NPR-TV-Z][0-9]$",
     "masks":[
-        ["[ABCEGHJKLMNPRSTVWXYZ]","[0-9]","[ABCEGHJKLMNPRSTVWXYZ]"," ","[0-9]","[ABCEGHJKLMNPRSTVWXYZ]","[0-9]"]
+        ["[A-CEGHJ-NPR-TV-Z]","[0-9]","[A-CEGHJ-NPR-TV-Z]"," ","[0-9]","[A-CEGHJ-NPR-TV-Z]","[0-9]"]
     ]
 }
