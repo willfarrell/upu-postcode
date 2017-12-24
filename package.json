@@ -1,7 +1,7 @@
 {
   "name": "upu-postcode",
-  "description":"All postcode formats, validations, and masking",
-  "version": "17.12.0",
+  "description": "All postcode formats, validations, and masking",
+  "version": "17.12.1",
   "author": "will Farrell",
   "license": "MIT",
   "engines": {
@@ -20,5 +20,30 @@
   "devDependencies": {
     "json-schema-ref-parser": "^4.0.3",
     "lodash": "^4.17.4"
-  }
+  },
+  "main": "index.js",
+  "bin": {
+    "upu-postcode": "deref.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://willfarrell@github.com/willfarrell/upu-postcode.git"
+  },
+  "keywords": [
+    "upu",
+    "postcode",
+    "postal",
+    "code",
+    "zip",
+    "code",
+    "mask"
+  ],
+  "bugs": {
+    "url": "https://github.com/willfarrell/upu-postcode/issues"
+  },
+  "homepage": "https://github.com/willfarrell/upu-postcode#readme"
 }
