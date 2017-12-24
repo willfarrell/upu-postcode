@@ -4,6 +4,6 @@
     ],
     "pattern": "^[A-CEGHJ-NPR-TV-Z][0-9][A-CEGHJ-NPR-TV-Z] [0-9][A-CEGHJ-NPR-TV-Z][0-9]$",
     "masks":[
-        ["[A-CEGHJ-NPR-TV-Z]","[0-9]","[A-CEGHJ-NPR-TV-Z]"," ","[0-9]","[A-CEGHJ-NPR-TV-Z]","[0-9]"]
+        ["/[A-CEGHJ-NPR-TV-Z]/","/[0-9]/","/[A-CEGHJ-NPR-TV-Z]/"," ","/[0-9]/","/[A-CEGHJ-NPR-TV-Z]/","/[0-9]/"]
     ]
 }
