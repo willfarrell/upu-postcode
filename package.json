@@ -1,7 +1,7 @@
 {
   "name": "upu-postcode",
   "description": "All postcode formats, validations, and masking",
-  "version": "17.12.1",
+  "version": "17.12.2",
   "author": "will Farrell",
   "license": "MIT",
   "engines": {
@@ -22,12 +22,6 @@
     "lodash": "^4.17.4"
   },
   "main": "index.js",
-  "bin": {
-    "upu-postcode": "deref.js"
-  },
-  "directories": {
-    "test": "test"
-  },
   "dependencies": {},
   "repository": {
     "type": "git",
